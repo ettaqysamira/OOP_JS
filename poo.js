@@ -36,11 +36,11 @@ class developpeur extends employee{
 let employee1= new employee("Samira","developpeuse")
 let dev1=new developpeur("Amine","Java")
 //prop private : affiche undefined
-/*console.log(employee1.poste)
+console.log(employee1.poste)
 // afficher prop private 
 console.log(employee1.getPoste())
 // afficher directement 
 console.log(employee1.nom)
-employee1.afficherInfos()*/
+employee1.afficherInfos()
 dev1.afficherInfos()
 
